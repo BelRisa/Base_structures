@@ -1,0 +1,811 @@
+TITLE     MDANALYSIS FRAME 0: Created by PDBWriter
+CRYST1   60.000   60.000   60.000  90.00  90.00  90.00 P 1           1
+ATOM      1  1   UNK X   1       1.982  22.034  30.489  1.00  0.00      SYST    
+ATOM      2  1   UNK X   1       2.133  22.167  30.995  1.00  0.00      SYST    
+ATOM      3  1   UNK X   1       2.434  22.295  31.709  1.00  0.00      SYST    
+ATOM      4  1   UNK X   1       1.919  22.587  32.150  1.00  0.00      SYST    
+ATOM      5  1   UNK X   1       1.376  23.136  31.638  1.00  0.00      SYST    
+ATOM      6  1   UNK X   1       1.210  23.338  32.230  1.00  0.00      SYST    
+ATOM      7  1   UNK X   1       0.707  23.446  32.812  1.00  0.00      SYST    
+ATOM      8  1   UNK X   1       0.766  24.026  32.583  1.00  0.00      SYST    
+ATOM      9  1   UNK X   1       1.032  24.538  32.460  1.00  0.00      SYST    
+ATOM     10  1   UNK X   1       1.541  24.993  32.940  1.00  0.00      SYST    
+ATOM     11  1   UNK X   1       1.203  24.541  33.168  1.00  0.00      SYST    
+ATOM     12  1   UNK X   1       0.608  25.057  32.914  1.00  0.00      SYST    
+ATOM     13  1   UNK X   1       0.894  25.419  32.511  1.00  0.00      SYST    
+ATOM     14  1   UNK X   1       1.447  25.301  32.541  1.00  0.00      SYST    
+ATOM     15  1   UNK X   1       1.286  25.996  32.582  1.00  0.00      SYST    
+ATOM     16  1   UNK X   1       1.775  26.596  32.850  1.00  0.00      SYST    
+ATOM     17  1   UNK X   1       1.344  26.327  32.390  1.00  0.00      SYST    
+ATOM     18  1   UNK X   1       0.818  26.831  32.059  1.00  0.00      SYST    
+ATOM     19  1   UNK X   1       0.356  27.340  32.269  1.00  0.00      SYST    
+ATOM     20  1   UNK X   1       0.291  28.125  31.891  1.00  0.00      SYST    
+ATOM     21  1   UNK X   1       0.912  27.782  31.742  1.00  0.00      SYST    
+ATOM     22  1   UNK X   1       0.247  27.711  31.368  1.00  0.00      SYST    
+ATOM     23  1   UNK X   1       0.718  27.462  30.683  1.00  0.00      SYST    
+ATOM     24  1   UNK X   1       1.213  28.157  30.372  1.00  0.00      SYST    
+ATOM     25  1   UNK X   1       1.387  28.624  30.710  1.00  0.00      SYST    
+ATOM     26  1   UNK X   1       0.620  28.795  30.669  1.00  0.00      SYST    
+ATOM     27  1   UNK X   1       1.213  28.989  30.411  1.00  0.00      SYST    
+ATOM     28  1   UNK X   1       1.035  28.602  29.591  1.00  0.00      SYST    
+ATOM     29  1   UNK X   1       1.229  27.947  30.105  1.00  0.00      SYST    
+ATOM     30  2   UNK X   1       1.484  22.582  30.273  1.00  0.00      SYST    
+ATOM     31  2   UNK X   1       1.943  23.042  30.186  1.00  0.00      SYST    
+ATOM     32  2   UNK X   1       2.139  23.824  29.921  1.00  0.00      SYST    
+ATOM     33  2   UNK X   1       1.704  23.414  31.165  1.00  0.00      SYST    
+ATOM     34  2   UNK X   1       1.177  23.754  31.009  1.00  0.00      SYST    
+ATOM     35  2   UNK X   1       0.884  24.239  30.980  1.00  0.00      SYST    
+ATOM     36  2   UNK X   1       1.294  25.136  31.916  1.00  0.00      SYST    
+ATOM     37  2   UNK X   1       1.202  25.602  31.399  1.00  0.00      SYST    
+ATOM     38  2   UNK X   1       0.925  26.114  30.843  1.00  0.00      SYST    
+ATOM     39  2   UNK X   1       0.937  25.669  31.749  1.00  0.00      SYST    
+ATOM     40  2   UNK X   1       1.428  26.314  31.478  1.00  0.00      SYST    
+ATOM     41  2   UNK X   1       2.075  26.853  31.365  1.00  0.00      SYST    
+ATOM     42  2   UNK X   1       2.046  26.042  32.245  1.00  0.00      SYST    
+ATOM     43  2   UNK X   1       1.886  25.967  31.557  1.00  0.00      SYST    
+ATOM     44  2   UNK X   1       1.816  25.926  30.904  1.00  0.00      SYST    
+ATOM     45  2   UNK X   1       1.273  27.596  31.062  1.00  0.00      SYST    
+ATOM     46  2   UNK X   1       1.495  27.194  31.545  1.00  0.00      SYST    
+ATOM     47  2   UNK X   1       1.850  26.717  32.062  1.00  0.00      SYST    
+ATOM     48  2   UNK X   1       1.933  28.406  30.617  1.00  0.00      SYST    
+ATOM     49  2   UNK X   1       2.053  27.985  30.032  1.00  0.00      SYST    
+ATOM     50  2   UNK X   1       2.306  27.696  29.331  1.00  0.00      SYST    
+ATOM     51  2   UNK X   1       1.484  27.381  30.419  1.00  0.00      SYST    
+ATOM     52  2   UNK X   1       2.201  27.190  30.449  1.00  0.00      SYST    
+ATOM     53  2   UNK X   1       2.932  27.395  30.544  1.00  0.00      SYST    
+ATOM     54  3   UNK X   1       1.920  23.092  29.589  1.00  0.00      SYST    
+ATOM     55  3   UNK X   1       1.770  23.296  28.907  1.00  0.00      SYST    
+ATOM     56  3   UNK X   1       1.796  23.347  30.090  1.00  0.00      SYST    
+ATOM     57  3   UNK X   1       1.084  22.983  29.903  1.00  0.00      SYST    
+ATOM     58  3   UNK X   1       2.856  24.031  29.648  1.00  0.00      SYST    
+ATOM     59  3   UNK X   1       2.460  23.356  29.429  1.00  0.00      SYST    
+ATOM     60  3   UNK X   1       1.779  24.246  31.154  1.00  0.00      SYST    
+ATOM     61  3   UNK X   1       2.008  23.703  30.967  1.00  0.00      SYST    
+ATOM     62  3   UNK X   1       0.756  23.691  30.533  1.00  0.00      SYST    
+ATOM     63  3   UNK X   1       1.368  23.608  30.663  1.00  0.00      SYST    
+ATOM     64  3   UNK X   1       1.316  24.093  31.656  1.00  0.00      SYST    
+ATOM     65  3   UNK X   1       0.604  24.233  31.623  1.00  0.00      SYST    
+ATOM     66  3   UNK X   1       1.203  26.419  30.298  1.00  0.00      SYST    
+ATOM     67  3   UNK X   1       1.652  26.743  30.435  1.00  0.00      SYST    
+ATOM     68  3   UNK X   1       0.450  26.117  30.239  1.00  0.00      SYST    
+ATOM     69  3   UNK X   1       0.304  25.954  29.630  1.00  0.00      SYST    
+ATOM     70  3   UNK X   1       0.813  26.236  31.640  1.00  0.00      SYST    
+ATOM     71  3   UNK X   1       0.346  26.076  31.072  1.00  0.00      SYST    
+ATOM     72  3   UNK X   1       2.692  27.046  31.778  1.00  0.00      SYST    
+ATOM     73  3   UNK X   1       2.967  26.534  31.290  1.00  0.00      SYST    
+ATOM     74  3   UNK X   1       2.707  26.996  31.076  1.00  0.00      SYST    
+ATOM     75  3   UNK X   1       3.460  26.835  31.010  1.00  0.00      SYST    
+ATOM     76  3   UNK X   1       2.202  26.379  30.895  1.00  0.00      SYST    
+ATOM     77  3   UNK X   1       1.792  25.738  30.505  1.00  0.00      SYST    
+ATOM     78  3   UNK X   1       1.831  25.988  30.095  1.00  0.00      SYST    
+ATOM     79  3   UNK X   1       2.068  26.663  30.385  1.00  0.00      SYST    
+ATOM     80  3   UNK X   1       2.538  26.057  30.378  1.00  0.00      SYST    
+ATOM     81  3   UNK X   1       2.636  26.291  29.631  1.00  0.00      SYST    
+ATOM     82  3   UNK X   1       2.083  25.550  31.446  1.00  0.00      SYST    
+ATOM     83  3   UNK X   1       1.585  25.177  31.434  1.00  0.00      SYST    
+ATOM     84  3   UNK X   1       2.145  27.404  31.869  1.00  0.00      SYST    
+ATOM     85  3   UNK X   1       1.756  27.720  31.466  1.00  0.00      SYST    
+ATOM     86  3   UNK X   1       2.441  26.264  31.812  1.00  0.00      SYST    
+ATOM     87  3   UNK X   1       2.254  26.716  32.289  1.00  0.00      SYST    
+ATOM     88  3   UNK X   1       2.162  27.050  32.299  1.00  0.00      SYST    
+ATOM     89  3   UNK X   1       2.788  26.875  32.418  1.00  0.00      SYST    
+ATOM     90  3   UNK X   1       2.451  27.880  30.041  1.00  0.00      SYST    
+ATOM     91  3   UNK X   1       3.021  28.040  30.333  1.00  0.00      SYST    
+ATOM     92  3   UNK X   1       1.883  27.134  29.270  1.00  0.00      SYST    
+ATOM     93  3   UNK X   1       1.268  26.636  28.944  1.00  0.00      SYST    
+ATOM     94  3   UNK X   1       2.259  27.756  28.444  1.00  0.00      SYST    
+ATOM     95  3   UNK X   1       2.666  27.465  29.083  1.00  0.00      SYST    
+ATOM     96  3   UNK X   1       3.696  27.385  30.385  1.00  0.00      SYST    
+ATOM     97  3   UNK X   1       3.226  27.380  29.870  1.00  0.00      SYST    
+ATOM     98  3   UNK X   1       2.809  27.579  31.152  1.00  0.00      SYST    
+ATOM     99  3   UNK X   1       2.191  27.718  30.942  1.00  0.00      SYST    
+ATOM    100  3   UNK X   1       2.511  27.560  30.020  1.00  0.00      SYST    
+ATOM    101  3   UNK X   1       2.579  26.837  29.734  1.00  0.00      SYST    
+ATOM    102  1   UNK X   1       5.790  26.257  31.554  1.00  0.00      SYST    
+ATOM    103  1   UNK X   1       5.879  26.910  32.010  1.00  0.00      SYST    
+ATOM    104  1   UNK X   1       6.195  27.467  31.731  1.00  0.00      SYST    
+ATOM    105  1   UNK X   1       5.665  28.074  31.914  1.00  0.00      SYST    
+ATOM    106  1   UNK X   1       5.089  27.734  32.338  1.00  0.00      SYST    
+ATOM    107  1   UNK X   1       5.256  27.415  32.995  1.00  0.00      SYST    
+ATOM    108  1   UNK X   1       5.050  26.794  32.724  1.00  0.00      SYST    
+ATOM    109  1   UNK X   1       5.350  26.283  32.443  1.00  0.00      SYST    
+ATOM    110  1   UNK X   1       4.854  25.802  32.399  1.00  0.00      SYST    
+ATOM    111  1   UNK X   1       4.595  25.032  32.598  1.00  0.00      SYST    
+ATOM    112  1   UNK X   1       4.825  25.030  33.251  1.00  0.00      SYST    
+ATOM    113  1   UNK X   1       4.896  25.626  32.892  1.00  0.00      SYST    
+ATOM    114  1   UNK X   1       4.147  25.579  32.752  1.00  0.00      SYST    
+ATOM    115  1   UNK X   1       3.829  26.114  32.631  1.00  0.00      SYST    
+ATOM    116  1   UNK X   1       3.233  25.677  33.006  1.00  0.00      SYST    
+ATOM    117  1   UNK X   1       2.759  25.328  33.490  1.00  0.00      SYST    
+ATOM    118  1   UNK X   1       2.810  24.973  32.939  1.00  0.00      SYST    
+ATOM    119  1   UNK X   1       2.969  24.697  33.613  1.00  0.00      SYST    
+ATOM    120  1   UNK X   1       3.394  24.148  33.544  1.00  0.00      SYST    
+ATOM    121  1   UNK X   1       3.837  24.743  33.355  1.00  0.00      SYST    
+ATOM    122  1   UNK X   1       3.808  24.281  32.628  1.00  0.00      SYST    
+ATOM    123  1   UNK X   1       3.219  24.011  32.420  1.00  0.00      SYST    
+ATOM    124  1   UNK X   1       3.050  23.290  32.230  1.00  0.00      SYST    
+ATOM    125  1   UNK X   1       3.016  22.668  31.871  1.00  0.00      SYST    
+ATOM    126  1   UNK X   1       3.426  22.739  31.381  1.00  0.00      SYST    
+ATOM    127  1   UNK X   1       3.640  22.642  31.952  1.00  0.00      SYST    
+ATOM    128  1   UNK X   1       3.460  21.876  31.710  1.00  0.00      SYST    
+ATOM    129  1   UNK X   1       3.389  21.458  30.929  1.00  0.00      SYST    
+ATOM    130  1   UNK X   1       3.268  21.728  30.191  1.00  0.00      SYST    
+ATOM    131  2   UNK X   1       5.424  26.920  31.166  1.00  0.00      SYST    
+ATOM    132  2   UNK X   1       4.696  27.213  31.293  1.00  0.00      SYST    
+ATOM    133  2   UNK X   1       4.216  27.492  31.511  1.00  0.00      SYST    
+ATOM    134  2   UNK X   1       5.153  27.576  31.809  1.00  0.00      SYST    
+ATOM    135  2   UNK X   1       4.986  26.956  31.474  1.00  0.00      SYST    
+ATOM    136  2   UNK X   1       4.825  26.288  31.372  1.00  0.00      SYST    
+ATOM    137  2   UNK X   1       4.469  25.626  31.906  1.00  0.00      SYST    
+ATOM    138  2   UNK X   1       3.764  26.055  31.847  1.00  0.00      SYST    
+ATOM    139  2   UNK X   1       3.234  26.366  31.692  1.00  0.00      SYST    
+ATOM    140  2   UNK X   1       4.295  25.294  31.849  1.00  0.00      SYST    
+ATOM    141  2   UNK X   1       4.378  24.889  31.113  1.00  0.00      SYST    
+ATOM    142  2   UNK X   1       4.300  24.469  30.496  1.00  0.00      SYST    
+ATOM    143  2   UNK X   1       2.725  25.331  32.345  1.00  0.00      SYST    
+ATOM    144  2   UNK X   1       2.543  25.064  31.725  1.00  0.00      SYST    
+ATOM    145  2   UNK X   1       2.220  24.680  30.999  1.00  0.00      SYST    
+ATOM    146  2   UNK X   1       3.964  24.775  31.973  1.00  0.00      SYST    
+ATOM    147  2   UNK X   1       3.570  25.152  31.515  1.00  0.00      SYST    
+ATOM    148  2   UNK X   1       3.320  25.486  30.942  1.00  0.00      SYST    
+ATOM    149  2   UNK X   1       3.365  22.838  30.569  1.00  0.00      SYST    
+ATOM    150  2   UNK X   1       3.957  23.248  30.566  1.00  0.00      SYST    
+ATOM    151  2   UNK X   1       4.523  23.650  30.453  1.00  0.00      SYST    
+ATOM    152  2   UNK X   1       2.703  22.006  30.657  1.00  0.00      SYST    
+ATOM    153  2   UNK X   1       2.767  22.690  30.412  1.00  0.00      SYST    
+ATOM    154  2   UNK X   1       2.639  23.384  30.271  1.00  0.00      SYST    
+ATOM    155  3   UNK X   1       4.311  28.098  31.517  1.00  0.00      SYST    
+ATOM    156  3   UNK X   1       3.688  28.108  31.387  1.00  0.00      SYST    
+ATOM    157  3   UNK X   1       4.603  26.927  32.088  1.00  0.00      SYST    
+ATOM    158  3   UNK X   1       4.038  26.776  32.041  1.00  0.00      SYST    
+ATOM    159  3   UNK X   1       3.808  26.868  31.439  1.00  0.00      SYST    
+ATOM    160  3   UNK X   1       3.656  27.481  31.184  1.00  0.00      SYST    
+ATOM    161  3   UNK X   1       4.794  25.797  31.775  1.00  0.00      SYST    
+ATOM    162  3   UNK X   1       4.739  26.505  31.782  1.00  0.00      SYST    
+ATOM    163  3   UNK X   1       5.038  26.782  30.867  1.00  0.00      SYST    
+ATOM    164  3   UNK X   1       5.422  26.491  30.272  1.00  0.00      SYST    
+ATOM    165  3   UNK X   1       4.763  25.856  30.657  1.00  0.00      SYST    
+ATOM    166  3   UNK X   1       4.217  25.894  31.219  1.00  0.00      SYST    
+ATOM    167  3   UNK X   1       3.305  26.626  32.307  1.00  0.00      SYST    
+ATOM    168  3   UNK X   1       2.771  26.182  32.468  1.00  0.00      SYST    
+ATOM    169  3   UNK X   1       3.257  26.117  31.085  1.00  0.00      SYST    
+ATOM    170  3   UNK X   1       2.453  25.755  31.068  1.00  0.00      SYST    
+ATOM    171  3   UNK X   1       2.858  25.981  32.114  1.00  0.00      SYST    
+ATOM    172  3   UNK X   1       3.144  25.443  31.842  1.00  0.00      SYST    
+ATOM    173  3   UNK X   1       3.808  24.575  30.175  1.00  0.00      SYST    
+ATOM    174  3   UNK X   1       3.717  24.202  29.461  1.00  0.00      SYST    
+ATOM    175  3   UNK X   1       4.785  24.987  30.223  1.00  0.00      SYST    
+ATOM    176  3   UNK X   1       5.069  24.246  30.213  1.00  0.00      SYST    
+ATOM    177  3   UNK X   1       4.741  24.104  31.023  1.00  0.00      SYST    
+ATOM    178  3   UNK X   1       4.530  24.678  31.337  1.00  0.00      SYST    
+ATOM    179  3   UNK X   1       2.276  25.158  30.555  1.00  0.00      SYST    
+ATOM    180  3   UNK X   1       1.761  24.684  30.065  1.00  0.00      SYST    
+ATOM    181  3   UNK X   1       2.063  24.313  31.520  1.00  0.00      SYST    
+ATOM    182  3   UNK X   1       1.405  24.709  31.141  1.00  0.00      SYST    
+ATOM    183  3   UNK X   1       2.994  24.897  31.134  1.00  0.00      SYST    
+ATOM    184  3   UNK X   1       2.427  25.350  31.396  1.00  0.00      SYST    
+ATOM    185  3   UNK X   1       3.502  24.919  30.587  1.00  0.00      SYST    
+ATOM    186  3   UNK X   1       4.055  24.988  30.539  1.00  0.00      SYST    
+ATOM    187  3   UNK X   1       3.807  25.863  30.717  1.00  0.00      SYST    
+ATOM    188  3   UNK X   1       3.804  25.640  31.461  1.00  0.00      SYST    
+ATOM    189  3   UNK X   1       3.328  26.294  30.721  1.00  0.00      SYST    
+ATOM    190  3   UNK X   1       2.976  26.593  30.336  1.00  0.00      SYST    
+ATOM    191  3   UNK X   1       4.973  23.588  29.919  1.00  0.00      SYST    
+ATOM    192  3   UNK X   1       4.447  23.751  29.517  1.00  0.00      SYST    
+ATOM    193  3   UNK X   1       3.826  23.979  30.549  1.00  0.00      SYST    
+ATOM    194  3   UNK X   1       3.452  24.478  30.844  1.00  0.00      SYST    
+ATOM    195  3   UNK X   1       4.301  24.089  29.902  1.00  0.00      SYST    
+ATOM    196  3   UNK X   1       4.636  23.329  30.050  1.00  0.00      SYST    
+ATOM    197  3   UNK X   1       2.282  23.953  30.709  1.00  0.00      SYST    
+ATOM    198  3   UNK X   1       2.425  24.797  30.432  1.00  0.00      SYST    
+ATOM    199  3   UNK X   1       2.883  23.860  30.690  1.00  0.00      SYST    
+ATOM    200  3   UNK X   1       2.279  24.309  30.361  1.00  0.00      SYST    
+ATOM    201  3   UNK X   1       2.664  23.206  30.730  1.00  0.00      SYST    
+ATOM    202  3   UNK X   1       3.282  23.482  30.263  1.00  0.00      SYST    
+ATOM    203  1   UNK X   1       4.974  28.340  30.027  1.00  0.00      SYST    
+ATOM    204  1   UNK X   1       4.454  28.504  29.713  1.00  0.00      SYST    
+ATOM    205  1   UNK X   1       4.037  29.206  29.892  1.00  0.00      SYST    
+ATOM    206  1   UNK X   1       3.717  28.921  29.398  1.00  0.00      SYST    
+ATOM    207  1   UNK X   1       3.952  28.411  29.209  1.00  0.00      SYST    
+ATOM    208  1   UNK X   1       3.913  28.782  28.660  1.00  0.00      SYST    
+ATOM    209  1   UNK X   1       4.447  28.275  28.597  1.00  0.00      SYST    
+ATOM    210  1   UNK X   1       4.819  27.821  28.065  1.00  0.00      SYST    
+ATOM    211  1   UNK X   1       4.713  27.099  28.657  1.00  0.00      SYST    
+ATOM    212  1   UNK X   1       5.202  26.894  28.183  1.00  0.00      SYST    
+ATOM    213  1   UNK X   1       5.445  26.521  28.818  1.00  0.00      SYST    
+ATOM    214  1   UNK X   1       5.537  25.752  28.706  1.00  0.00      SYST    
+ATOM    215  1   UNK X   1       5.273  26.076  28.067  1.00  0.00      SYST    
+ATOM    216  1   UNK X   1       4.822  25.987  27.700  1.00  0.00      SYST    
+ATOM    217  1   UNK X   1       4.617  26.678  27.135  1.00  0.00      SYST    
+ATOM    218  1   UNK X   1       4.196  26.962  27.510  1.00  0.00      SYST    
+ATOM    219  1   UNK X   1       4.129  26.213  27.370  1.00  0.00      SYST    
+ATOM    220  1   UNK X   1       4.669  25.894  27.057  1.00  0.00      SYST    
+ATOM    221  1   UNK X   1       4.616  25.416  27.551  1.00  0.00      SYST    
+ATOM    222  1   UNK X   1       4.199  25.055  27.108  1.00  0.00      SYST    
+ATOM    223  1   UNK X   1       4.983  24.777  27.353  1.00  0.00      SYST    
+ATOM    224  1   UNK X   1       5.066  24.222  27.161  1.00  0.00      SYST    
+ATOM    225  1   UNK X   1       5.797  23.968  27.349  1.00  0.00      SYST    
+ATOM    226  1   UNK X   1       6.055  23.848  28.041  1.00  0.00      SYST    
+ATOM    227  1   UNK X   1       5.398  23.283  28.038  1.00  0.00      SYST    
+ATOM    228  1   UNK X   1       5.262  22.964  27.165  1.00  0.00      SYST    
+ATOM    229  1   UNK X   1       4.457  22.988  27.177  1.00  0.00      SYST    
+ATOM    230  1   UNK X   1       4.115  23.056  26.636  1.00  0.00      SYST    
+ATOM    231  1   UNK X   1       3.443  23.064  26.786  1.00  0.00      SYST    
+ATOM    232  2   UNK X   1       5.059  27.550  30.408  1.00  0.00      SYST    
+ATOM    233  2   UNK X   1       4.877  26.899  30.289  1.00  0.00      SYST    
+ATOM    234  2   UNK X   1       4.801  26.235  29.925  1.00  0.00      SYST    
+ATOM    235  2   UNK X   1       3.974  27.528  29.071  1.00  0.00      SYST    
+ATOM    236  2   UNK X   1       3.734  27.762  29.910  1.00  0.00      SYST    
+ATOM    237  2   UNK X   1       3.549  27.940  30.630  1.00  0.00      SYST    
+ATOM    238  2   UNK X   1       4.392  26.945  29.334  1.00  0.00      SYST    
+ATOM    239  2   UNK X   1       4.263  26.308  29.335  1.00  0.00      SYST    
+ATOM    240  2   UNK X   1       4.106  25.310  29.436  1.00  0.00      SYST    
+ATOM    241  2   UNK X   1       4.723  26.242  28.407  1.00  0.00      SYST    
+ATOM    242  2   UNK X   1       4.164  25.752  28.715  1.00  0.00      SYST    
+ATOM    243  2   UNK X   1       3.719  25.188  28.826  1.00  0.00      SYST    
+ATOM    244  2   UNK X   1       4.105  26.575  28.030  1.00  0.00      SYST    
+ATOM    245  2   UNK X   1       3.611  26.424  28.843  1.00  0.00      SYST    
+ATOM    246  2   UNK X   1       3.117  26.367  29.293  1.00  0.00      SYST    
+ATOM    247  2   UNK X   1       4.317  24.310  27.071  1.00  0.00      SYST    
+ATOM    248  2   UNK X   1       4.045  24.550  27.732  1.00  0.00      SYST    
+ATOM    249  2   UNK X   1       3.766  24.718  28.333  1.00  0.00      SYST    
+ATOM    250  2   UNK X   1       5.022  23.024  28.716  1.00  0.00      SYST    
+ATOM    251  2   UNK X   1       4.414  22.909  29.144  1.00  0.00      SYST    
+ATOM    252  2   UNK X   1       3.812  22.894  29.596  1.00  0.00      SYST    
+ATOM    253  2   UNK X   1       3.271  23.508  27.531  1.00  0.00      SYST    
+ATOM    254  2   UNK X   1       2.947  23.212  28.148  1.00  0.00      SYST    
+ATOM    255  2   UNK X   1       2.590  23.093  28.801  1.00  0.00      SYST    
+ATOM    256  3   UNK X   1       4.594  26.653  30.641  1.00  0.00      SYST    
+ATOM    257  3   UNK X   1       4.554  27.278  30.189  1.00  0.00      SYST    
+ATOM    258  3   UNK X   1       4.961  26.382  29.457  1.00  0.00      SYST    
+ATOM    259  3   UNK X   1       4.917  27.053  29.442  1.00  0.00      SYST    
+ATOM    260  3   UNK X   1       4.068  26.311  30.197  1.00  0.00      SYST    
+ATOM    261  3   UNK X   1       4.048  26.521  30.958  1.00  0.00      SYST    
+ATOM    262  3   UNK X   1       3.545  28.522  30.095  1.00  0.00      SYST    
+ATOM    263  3   UNK X   1       3.200  27.943  29.653  1.00  0.00      SYST    
+ATOM    264  3   UNK X   1       4.202  27.533  30.799  1.00  0.00      SYST    
+ATOM    265  3   UNK X   1       4.061  27.002  30.541  1.00  0.00      SYST    
+ATOM    266  3   UNK X   1       4.243  27.874  30.223  1.00  0.00      SYST    
+ATOM    267  3   UNK X   1       4.848  27.608  29.778  1.00  0.00      SYST    
+ATOM    268  3   UNK X   1       3.924  24.377  29.512  1.00  0.00      SYST    
+ATOM    269  3   UNK X   1       3.159  24.479  29.756  1.00  0.00      SYST    
+ATOM    270  3   UNK X   1       4.720  25.377  30.013  1.00  0.00      SYST    
+ATOM    271  3   UNK X   1       4.767  24.629  29.709  1.00  0.00      SYST    
+ATOM    272  3   UNK X   1       4.427  25.740  29.777  1.00  0.00      SYST    
+ATOM    273  3   UNK X   1       3.926  25.461  29.973  1.00  0.00      SYST    
+ATOM    274  3   UNK X   1       3.346  24.410  28.723  1.00  0.00      SYST    
+ATOM    275  3   UNK X   1       3.389  23.679  28.735  1.00  0.00      SYST    
+ATOM    276  3   UNK X   1       3.436  25.165  29.433  1.00  0.00      SYST    
+ATOM    277  3   UNK X   1       2.904  25.049  28.781  1.00  0.00      SYST    
+ATOM    278  3   UNK X   1       3.500  25.472  28.237  1.00  0.00      SYST    
+ATOM    279  3   UNK X   1       3.154  24.661  28.140  1.00  0.00      SYST    
+ATOM    280  3   UNK X   1       3.164  25.820  29.897  1.00  0.00      SYST    
+ATOM    281  3   UNK X   1       2.867  25.404  30.340  1.00  0.00      SYST    
+ATOM    282  3   UNK X   1       3.821  26.012  29.416  1.00  0.00      SYST    
+ATOM    283  3   UNK X   1       3.299  25.569  29.169  1.00  0.00      SYST    
+ATOM    284  3   UNK X   1       3.196  26.914  29.732  1.00  0.00      SYST    
+ATOM    285  3   UNK X   1       3.749  26.656  29.960  1.00  0.00      SYST    
+ATOM    286  3   UNK X   1       4.167  24.176  28.678  1.00  0.00      SYST    
+ATOM    287  3   UNK X   1       4.336  23.639  29.031  1.00  0.00      SYST    
+ATOM    288  3   UNK X   1       4.334  24.622  28.856  1.00  0.00      SYST    
+ATOM    289  3   UNK X   1       4.466  24.762  29.488  1.00  0.00      SYST    
+ATOM    290  3   UNK X   1       3.792  24.954  27.723  1.00  0.00      SYST    
+ATOM    291  3   UNK X   1       3.072  25.093  27.919  1.00  0.00      SYST    
+ATOM    292  3   UNK X   1       3.851  23.229  29.174  1.00  0.00      SYST    
+ATOM    293  3   UNK X   1       3.305  23.491  29.588  1.00  0.00      SYST    
+ATOM    294  3   UNK X   1       3.907  23.325  30.175  1.00  0.00      SYST    
+ATOM    295  3   UNK X   1       3.812  22.752  29.826  1.00  0.00      SYST    
+ATOM    296  3   UNK X   1       4.277  23.069  29.355  1.00  0.00      SYST    
+ATOM    297  3   UNK X   1       3.705  23.536  29.637  1.00  0.00      SYST    
+ATOM    298  3   UNK X   1       2.444  23.421  28.375  1.00  0.00      SYST    
+ATOM    299  3   UNK X   1       3.109  23.475  28.378  1.00  0.00      SYST    
+ATOM    300  3   UNK X   1       3.032  23.116  29.418  1.00  0.00      SYST    
+ATOM    301  3   UNK X   1       3.085  22.608  29.845  1.00  0.00      SYST    
+ATOM    302  3   UNK X   1       2.644  22.628  28.948  1.00  0.00      SYST    
+ATOM    303  3   UNK X   1       3.176  22.226  29.374  1.00  0.00      SYST    
+ATOM    304  1   UNK X   1       1.365  26.151  27.310  1.00  0.00      SYST    
+ATOM    305  1   UNK X   1       0.798  26.552  27.214  1.00  0.00      SYST    
+ATOM    306  1   UNK X   1       1.149  27.261  27.064  1.00  0.00      SYST    
+ATOM    307  1   UNK X   1       1.861  27.317  27.372  1.00  0.00      SYST    
+ATOM    308  1   UNK X   1       1.534  26.900  27.869  1.00  0.00      SYST    
+ATOM    309  1   UNK X   1       1.193  26.689  28.407  1.00  0.00      SYST    
+ATOM    310  1   UNK X   1       0.472  26.780  28.471  1.00  0.00      SYST    
+ATOM    311  1   UNK X   1       0.342  26.537  29.072  1.00  0.00      SYST    
+ATOM    312  1   UNK X   1       0.461  26.058  28.554  1.00  0.00      SYST    
+ATOM    313  1   UNK X   1       1.245  25.961  28.236  1.00  0.00      SYST    
+ATOM    314  1   UNK X   1       0.913  26.079  27.608  1.00  0.00      SYST    
+ATOM    315  1   UNK X   1       1.216  25.588  27.876  1.00  0.00      SYST    
+ATOM    316  1   UNK X   1       0.631  25.165  28.021  1.00  0.00      SYST    
+ATOM    317  1   UNK X   1      59.898  24.982  28.092  1.00  0.00      SYST    
+ATOM    318  1   UNK X   1      59.815  25.201  28.825  1.00  0.00      SYST    
+ATOM    319  1   UNK X   1      59.794  24.733  29.196  1.00  0.00      SYST    
+ATOM    320  1   UNK X   1      59.714  24.194  29.754  1.00  0.00      SYST    
+ATOM    321  1   UNK X   1      59.516  23.534  29.525  1.00  0.00      SYST    
+ATOM    322  1   UNK X   1      59.603  23.755  28.955  1.00  0.00      SYST    
+ATOM    323  1   UNK X   1       0.034  24.140  28.605  1.00  0.00      SYST    
+ATOM    324  1   UNK X   1       0.284  23.336  28.556  1.00  0.00      SYST    
+ATOM    325  1   UNK X   1       1.003  23.537  28.233  1.00  0.00      SYST    
+ATOM    326  1   UNK X   1       0.745  23.303  27.503  1.00  0.00      SYST    
+ATOM    327  1   UNK X   1       1.092  22.803  27.910  1.00  0.00      SYST    
+ATOM    328  1   UNK X   1       1.642  23.111  28.050  1.00  0.00      SYST    
+ATOM    329  1   UNK X   1       1.899  22.654  27.610  1.00  0.00      SYST    
+ATOM    330  1   UNK X   1       2.443  22.201  27.907  1.00  0.00      SYST    
+ATOM    331  1   UNK X   1       2.829  22.328  28.300  1.00  0.00      SYST    
+ATOM    332  1   UNK X   1       2.476  22.650  27.658  1.00  0.00      SYST    
+ATOM    333  2   UNK X   1       1.940  26.058  27.884  1.00  0.00      SYST    
+ATOM    334  2   UNK X   1       2.399  26.214  28.246  1.00  0.00      SYST    
+ATOM    335  2   UNK X   1       3.039  26.394  28.482  1.00  0.00      SYST    
+ATOM    336  2   UNK X   1       1.940  26.644  28.400  1.00  0.00      SYST    
+ATOM    337  2   UNK X   1       1.951  26.166  28.720  1.00  0.00      SYST    
+ATOM    338  2   UNK X   1       2.124  25.680  29.010  1.00  0.00      SYST    
+ATOM    339  2   UNK X   1       0.717  25.715  29.199  1.00  0.00      SYST    
+ATOM    340  2   UNK X   1       1.311  26.003  29.390  1.00  0.00      SYST    
+ATOM    341  2   UNK X   1       1.840  26.271  29.686  1.00  0.00      SYST    
+ATOM    342  2   UNK X   1       1.158  25.416  28.855  1.00  0.00      SYST    
+ATOM    343  2   UNK X   1       1.120  25.317  29.410  1.00  0.00      SYST    
+ATOM    344  2   UNK X   1       1.184  25.485  30.116  1.00  0.00      SYST    
+ATOM    345  2   UNK X   1       0.398  24.099  29.224  1.00  0.00      SYST    
+ATOM    346  2   UNK X   1       0.991  24.020  29.406  1.00  0.00      SYST    
+ATOM    347  2   UNK X   1       1.617  24.099  29.630  1.00  0.00      SYST    
+ATOM    348  2   UNK X   1       0.223  23.352  29.275  1.00  0.00      SYST    
+ATOM    349  2   UNK X   1       0.383  23.669  29.966  1.00  0.00      SYST    
+ATOM    350  2   UNK X   1       0.476  24.127  30.561  1.00  0.00      SYST    
+ATOM    351  2   UNK X   1       1.773  23.684  28.499  1.00  0.00      SYST    
+ATOM    352  2   UNK X   1       2.177  24.307  28.719  1.00  0.00      SYST    
+ATOM    353  2   UNK X   1       2.657  24.720  29.079  1.00  0.00      SYST    
+ATOM    354  2   UNK X   1       2.453  23.406  27.821  1.00  0.00      SYST    
+ATOM    355  2   UNK X   1       2.358  23.972  27.612  1.00  0.00      SYST    
+ATOM    356  2   UNK X   1       2.133  24.525  27.439  1.00  0.00      SYST    
+ATOM    357  3   UNK X   1       3.598  26.701  28.682  1.00  0.00      SYST    
+ATOM    358  3   UNK X   1       3.032  27.371  29.016  1.00  0.00      SYST    
+ATOM    359  3   UNK X   1       3.406  26.494  28.001  1.00  0.00      SYST    
+ATOM    360  3   UNK X   1       3.829  25.933  28.571  1.00  0.00      SYST    
+ATOM    361  3   UNK X   1       3.230  26.855  28.335  1.00  0.00      SYST    
+ATOM    362  3   UNK X   1       2.618  27.210  28.356  1.00  0.00      SYST    
+ATOM    363  3   UNK X   1       2.369  25.329  28.403  1.00  0.00      SYST    
+ATOM    364  3   UNK X   1       2.499  25.481  27.769  1.00  0.00      SYST    
+ATOM    365  3   UNK X   1       1.993  24.947  28.714  1.00  0.00      SYST    
+ATOM    366  3   UNK X   1       1.704  25.240  27.931  1.00  0.00      SYST    
+ATOM    367  3   UNK X   1       2.648  25.849  28.751  1.00  0.00      SYST    
+ATOM    368  3   UNK X   1       2.543  26.631  28.791  1.00  0.00      SYST    
+ATOM    369  3   UNK X   1       1.816  27.085  29.649  1.00  0.00      SYST    
+ATOM    370  3   UNK X   1       1.807  27.147  28.768  1.00  0.00      SYST    
+ATOM    371  3   UNK X   1       2.001  25.459  29.564  1.00  0.00      SYST    
+ATOM    372  3   UNK X   1       1.853  24.717  29.168  1.00  0.00      SYST    
+ATOM    373  3   UNK X   1       1.164  26.257  30.025  1.00  0.00      SYST    
+ATOM    374  3   UNK X   1       0.985  26.535  29.205  1.00  0.00      SYST    
+ATOM    375  3   UNK X   1       1.048  24.897  30.007  1.00  0.00      SYST    
+ATOM    376  3   UNK X   1       1.396  24.530  30.028  1.00  0.00      SYST    
+ATOM    377  3   UNK X   1       0.698  25.264  30.388  1.00  0.00      SYST    
+ATOM    378  3   UNK X   1       0.346  25.652  30.970  1.00  0.00      SYST    
+ATOM    379  3   UNK X   1       1.451  25.324  30.541  1.00  0.00      SYST    
+ATOM    380  3   UNK X   1       1.549  24.578  30.607  1.00  0.00      SYST    
+ATOM    381  3   UNK X   1       1.190  24.593  29.417  1.00  0.00      SYST    
+ATOM    382  3   UNK X   1       0.935  24.893  28.918  1.00  0.00      SYST    
+ATOM    383  3   UNK X   1       1.086  23.788  29.863  1.00  0.00      SYST    
+ATOM    384  3   UNK X   1       1.390  23.624  29.259  1.00  0.00      SYST    
+ATOM    385  3   UNK X   1       2.105  23.911  29.116  1.00  0.00      SYST    
+ATOM    386  3   UNK X   1       1.505  23.975  28.689  1.00  0.00      SYST    
+ATOM    387  3   UNK X   1       0.878  24.447  30.169  1.00  0.00      SYST    
+ATOM    388  3   UNK X   1       0.354  24.924  30.592  1.00  0.00      SYST    
+ATOM    389  3   UNK X   1       0.222  24.731  31.061  1.00  0.00      SYST    
+ATOM    390  3   UNK X   1       0.743  24.971  31.432  1.00  0.00      SYST    
+ATOM    391  3   UNK X   1       0.210  23.969  29.981  1.00  0.00      SYST    
+ATOM    392  3   UNK X   1       0.486  24.436  29.931  1.00  0.00      SYST    
+ATOM    393  3   UNK X   1       2.348  24.480  29.726  1.00  0.00      SYST    
+ATOM    394  3   UNK X   1       2.646  24.015  29.074  1.00  0.00      SYST    
+ATOM    395  3   UNK X   1       2.485  25.444  29.342  1.00  0.00      SYST    
+ATOM    396  3   UNK X   1       2.311  25.651  30.057  1.00  0.00      SYST    
+ATOM    397  3   UNK X   1       2.933  24.957  29.839  1.00  0.00      SYST    
+ATOM    398  3   UNK X   1       3.173  24.442  30.248  1.00  0.00      SYST    
+ATOM    399  3   UNK X   1       1.480  24.774  27.875  1.00  0.00      SYST    
+ATOM    400  3   UNK X   1       1.002  24.796  28.398  1.00  0.00      SYST    
+ATOM    401  3   UNK X   1       1.867  24.005  28.004  1.00  0.00      SYST    
+ATOM    402  3   UNK X   1       2.677  24.122  28.485  1.00  0.00      SYST    
+ATOM    403  3   UNK X   1       2.335  24.539  28.065  1.00  0.00      SYST    
+ATOM    404  3   UNK X   1       2.977  24.454  27.621  1.00  0.00      SYST    
+CONECT    1    2   30
+CONECT    2    1    3
+CONECT    3    2    4
+CONECT    4    3    5
+CONECT    5    4    6   33
+CONECT    6    5    7
+CONECT    7    6    8
+CONECT    8    7    9
+CONECT    9    8   10   36
+CONECT   10    9   11
+CONECT   11   10   12
+CONECT   12   11   13
+CONECT   13   12   14   39
+CONECT   14   13   15
+CONECT   15   14   16
+CONECT   16   15   17
+CONECT   17   16   18   42
+CONECT   18   17   19
+CONECT   19   18   20
+CONECT   20   19   21
+CONECT   21   20   22   45
+CONECT   22   21   23
+CONECT   23   22   24
+CONECT   24   23   25
+CONECT   25   24   26   48
+CONECT   26   25   27
+CONECT   27   26   28
+CONECT   28   27   29
+CONECT   29   28   51
+CONECT   30    1   31
+CONECT   31   30   32
+CONECT   32   31   54   56   58
+CONECT   33    5   34
+CONECT   34   33   35
+CONECT   35   34   60   62   64
+CONECT   36    9   37
+CONECT   37   36   38
+CONECT   38   37   66   68   70
+CONECT   39   13   40
+CONECT   40   39   41
+CONECT   41   40   72   74   76
+CONECT   42   17   43
+CONECT   43   42   44
+CONECT   44   43   78   80   82
+CONECT   45   21   46
+CONECT   46   45   47
+CONECT   47   46   84   86   88
+CONECT   48   25   49
+CONECT   49   48   50
+CONECT   50   49   90   92   94
+CONECT   51   29   52
+CONECT   52   51   53
+CONECT   53   52   96   98  100
+CONECT   54   32   55
+CONECT   55   54
+CONECT   56   32   57
+CONECT   57   56
+CONECT   58   32   59
+CONECT   59   58
+CONECT   60   35   61
+CONECT   61   60
+CONECT   62   35   63
+CONECT   63   62
+CONECT   64   35   65
+CONECT   65   64
+CONECT   66   38   67
+CONECT   67   66
+CONECT   68   38   69
+CONECT   69   68
+CONECT   70   38   71
+CONECT   71   70
+CONECT   72   41   73
+CONECT   73   72
+CONECT   74   41   75
+CONECT   75   74
+CONECT   76   41   77
+CONECT   77   76
+CONECT   78   44   79
+CONECT   79   78
+CONECT   80   44   81
+CONECT   81   80
+CONECT   82   44   83
+CONECT   83   82
+CONECT   84   47   85
+CONECT   85   84
+CONECT   86   47   87
+CONECT   87   86
+CONECT   88   47   89
+CONECT   89   88
+CONECT   90   50   91
+CONECT   91   90
+CONECT   92   50   93
+CONECT   93   92
+CONECT   94   50   95
+CONECT   95   94
+CONECT   96   53   97
+CONECT   97   96
+CONECT   98   53   99
+CONECT   99   98
+CONECT  100   53  101
+CONECT  101  100
+CONECT  102  103  131
+CONECT  103  102  104
+CONECT  104  103  105
+CONECT  105  104  106
+CONECT  106  105  107  134
+CONECT  107  106  108
+CONECT  108  107  109
+CONECT  109  108  110
+CONECT  110  109  111  137
+CONECT  111  110  112
+CONECT  112  111  113
+CONECT  113  112  114
+CONECT  114  113  115  140
+CONECT  115  114  116
+CONECT  116  115  117
+CONECT  117  116  118
+CONECT  118  117  119  143
+CONECT  119  118  120
+CONECT  120  119  121
+CONECT  121  120  122
+CONECT  122  121  123  146
+CONECT  123  122  124
+CONECT  124  123  125
+CONECT  125  124  126
+CONECT  126  125  127  149
+CONECT  127  126  128
+CONECT  128  127  129
+CONECT  129  128  130
+CONECT  130  129  152
+CONECT  131  102  132
+CONECT  132  131  133
+CONECT  133  132  155  157  159
+CONECT  134  106  135
+CONECT  135  134  136
+CONECT  136  135  161  163  165
+CONECT  137  110  138
+CONECT  138  137  139
+CONECT  139  138  167  169  171
+CONECT  140  114  141
+CONECT  141  140  142
+CONECT  142  141  173  175  177
+CONECT  143  118  144
+CONECT  144  143  145
+CONECT  145  144  179  181  183
+CONECT  146  122  147
+CONECT  147  146  148
+CONECT  148  147  185  187  189
+CONECT  149  126  150
+CONECT  150  149  151
+CONECT  151  150  191  193  195
+CONECT  152  130  153
+CONECT  153  152  154
+CONECT  154  153  197  199  201
+CONECT  155  133  156
+CONECT  156  155
+CONECT  157  133  158
+CONECT  158  157
+CONECT  159  133  160
+CONECT  160  159
+CONECT  161  136  162
+CONECT  162  161
+CONECT  163  136  164
+CONECT  164  163
+CONECT  165  136  166
+CONECT  166  165
+CONECT  167  139  168
+CONECT  168  167
+CONECT  169  139  170
+CONECT  170  169
+CONECT  171  139  172
+CONECT  172  171
+CONECT  173  142  174
+CONECT  174  173
+CONECT  175  142  176
+CONECT  176  175
+CONECT  177  142  178
+CONECT  178  177
+CONECT  179  145  180
+CONECT  180  179
+CONECT  181  145  182
+CONECT  182  181
+CONECT  183  145  184
+CONECT  184  183
+CONECT  185  148  186
+CONECT  186  185
+CONECT  187  148  188
+CONECT  188  187
+CONECT  189  148  190
+CONECT  190  189
+CONECT  191  151  192
+CONECT  192  191
+CONECT  193  151  194
+CONECT  194  193
+CONECT  195  151  196
+CONECT  196  195
+CONECT  197  154  198
+CONECT  198  197
+CONECT  199  154  200
+CONECT  200  199
+CONECT  201  154  202
+CONECT  202  201
+CONECT  203  204  232
+CONECT  204  203  205
+CONECT  205  204  206
+CONECT  206  205  207
+CONECT  207  206  208  235
+CONECT  208  207  209
+CONECT  209  208  210
+CONECT  210  209  211
+CONECT  211  210  212  238
+CONECT  212  211  213
+CONECT  213  212  214
+CONECT  214  213  215
+CONECT  215  214  216  241
+CONECT  216  215  217
+CONECT  217  216  218
+CONECT  218  217  219
+CONECT  219  218  220  244
+CONECT  220  219  221
+CONECT  221  220  222
+CONECT  222  221  223
+CONECT  223  222  224  247
+CONECT  224  223  225
+CONECT  225  224  226
+CONECT  226  225  227
+CONECT  227  226  228  250
+CONECT  228  227  229
+CONECT  229  228  230
+CONECT  230  229  231
+CONECT  231  230  253
+CONECT  232  203  233
+CONECT  233  232  234
+CONECT  234  233  256  258  260
+CONECT  235  207  236
+CONECT  236  235  237
+CONECT  237  236  262  264  266
+CONECT  238  211  239
+CONECT  239  238  240
+CONECT  240  239  268  270  272
+CONECT  241  215  242
+CONECT  242  241  243
+CONECT  243  242  274  276  278
+CONECT  244  219  245
+CONECT  245  244  246
+CONECT  246  245  280  282  284
+CONECT  247  223  248
+CONECT  248  247  249
+CONECT  249  248  286  288  290
+CONECT  250  227  251
+CONECT  251  250  252
+CONECT  252  251  292  294  296
+CONECT  253  231  254
+CONECT  254  253  255
+CONECT  255  254  298  300  302
+CONECT  256  234  257
+CONECT  257  256
+CONECT  258  234  259
+CONECT  259  258
+CONECT  260  234  261
+CONECT  261  260
+CONECT  262  237  263
+CONECT  263  262
+CONECT  264  237  265
+CONECT  265  264
+CONECT  266  237  267
+CONECT  267  266
+CONECT  268  240  269
+CONECT  269  268
+CONECT  270  240  271
+CONECT  271  270
+CONECT  272  240  273
+CONECT  273  272
+CONECT  274  243  275
+CONECT  275  274
+CONECT  276  243  277
+CONECT  277  276
+CONECT  278  243  279
+CONECT  279  278
+CONECT  280  246  281
+CONECT  281  280
+CONECT  282  246  283
+CONECT  283  282
+CONECT  284  246  285
+CONECT  285  284
+CONECT  286  249  287
+CONECT  287  286
+CONECT  288  249  289
+CONECT  289  288
+CONECT  290  249  291
+CONECT  291  290
+CONECT  292  252  293
+CONECT  293  292
+CONECT  294  252  295
+CONECT  295  294
+CONECT  296  252  297
+CONECT  297  296
+CONECT  298  255  299
+CONECT  299  298
+CONECT  300  255  301
+CONECT  301  300
+CONECT  302  255  303
+CONECT  303  302
+CONECT  304  305  333
+CONECT  305  304  306
+CONECT  306  305  307
+CONECT  307  306  308
+CONECT  308  307  309  336
+CONECT  309  308  310
+CONECT  310  309  311
+CONECT  311  310  312
+CONECT  312  311  313  339
+CONECT  313  312  314
+CONECT  314  313  315
+CONECT  315  314  316
+CONECT  316  315  342
+CONECT  317  318
+CONECT  318  317  319
+CONECT  319  318  320
+CONECT  320  319  321
+CONECT  321  320  322
+CONECT  322  321
+CONECT  323  324
+CONECT  324  323  325  348
+CONECT  325  324  326
+CONECT  326  325  327
+CONECT  327  326  328
+CONECT  328  327  329  351
+CONECT  329  328  330
+CONECT  330  329  331
+CONECT  331  330  332
+CONECT  332  331  354
+CONECT  333  304  334
+CONECT  334  333  335
+CONECT  335  334  357  359  361
+CONECT  336  308  337
+CONECT  337  336  338
+CONECT  338  337  363  365  367
+CONECT  339  312  340
+CONECT  340  339  341
+CONECT  341  340  369  371  373
+CONECT  342  316  343
+CONECT  343  342  344
+CONECT  344  343  375  377  379
+CONECT  345  346
+CONECT  346  345  347
+CONECT  347  346  381  383  385
+CONECT  348  324  349
+CONECT  349  348  350
+CONECT  350  349  387  389  391
+CONECT  351  328  352
+CONECT  352  351  353
+CONECT  353  352  393  395  397
+CONECT  354  332  355
+CONECT  355  354  356
+CONECT  356  355  399  401  403
+CONECT  357  335  358
+CONECT  358  357
+CONECT  359  335  360
+CONECT  360  359
+CONECT  361  335  362
+CONECT  362  361
+CONECT  363  338  364
+CONECT  364  363
+CONECT  365  338  366
+CONECT  366  365
+CONECT  367  338  368
+CONECT  368  367
+CONECT  369  341  370
+CONECT  370  369
+CONECT  371  341  372
+CONECT  372  371
+CONECT  373  341  374
+CONECT  374  373
+CONECT  375  344  376
+CONECT  376  375
+CONECT  377  344  378
+CONECT  378  377
+CONECT  379  344  380
+CONECT  380  379
+CONECT  381  347  382
+CONECT  382  381
+CONECT  383  347  384
+CONECT  384  383
+CONECT  385  347  386
+CONECT  386  385
+CONECT  387  350  388
+CONECT  388  387
+CONECT  389  350  390
+CONECT  390  389
+CONECT  391  350  392
+CONECT  392  391
+CONECT  393  353  394
+CONECT  394  393
+CONECT  395  353  396
+CONECT  396  395
+CONECT  397  353  398
+CONECT  398  397
+CONECT  399  356  400
+CONECT  400  399
+CONECT  401  356  402
+CONECT  402  401
+CONECT  403  356  404
+CONECT  404  403
+END
