@@ -1,0 +1,39 @@
+TITLE     MDANALYSIS FRAME 0: Created by PDBWriter
+CRYST1   35.000   35.000   35.000  90.00  90.00  90.00 P 1           1
+ATOM      1  1   UNK X   7      33.357  18.315  19.529  1.00  0.00      SYST    
+ATOM      2  1   UNK X   7      32.955  18.823  19.810  1.00  0.00      SYST    
+ATOM      3  1   UNK X   7      33.127  18.456  20.150  1.00  0.00      SYST    
+ATOM      4  1   UNK X   7      33.363  17.620  19.721  1.00  0.00      SYST    
+ATOM      5  1   UNK X   7      33.314  17.122  19.408  1.00  0.00      SYST    
+ATOM      6  1   UNK X   7      32.698  17.834  18.295  1.00  0.00      SYST    
+ATOM      7  1   UNK X   7      34.543  17.746  20.635  1.00  0.00      SYST    
+ATOM      8  1   UNK X   7      33.664  18.082  20.198  1.00  0.00      SYST    
+ATOM      9  1   UNK X   7       0.437  17.574  19.853  1.00  0.00      SYST    
+ATOM     10  1   UNK X   7       0.533  17.295  20.303  1.00  0.00      SYST    
+ATOM     11  1   UNK X   7       0.589  18.277  19.577  1.00  0.00      SYST    
+ATOM     12  1   UNK X   7       0.357  17.103  20.617  1.00  0.00      SYST    
+ATOM     13  1   UNK X   7      34.080  17.478  20.689  1.00  0.00      SYST    
+ATOM     14  1   UNK X   7       0.543  18.828  20.291  1.00  0.00      SYST    
+ATOM     15  2   UNK X   7      34.615  18.000  19.824  1.00  0.00      SYST    
+ATOM     16  2   UNK X   7      34.019  18.075  19.293  1.00  0.00      SYST    
+ATOM     17  2   UNK X   7      34.736  17.656  19.715  1.00  0.00      SYST    
+ATOM     18  2   UNK X   7      34.010  17.737  19.428  1.00  0.00      SYST    
+CONECT    1    2    8   16
+CONECT    2    1    3
+CONECT    3    2    4
+CONECT    4    3    5   18
+CONECT    5    4    6
+CONECT    6    5
+CONECT    7   12   13   15
+CONECT    8    1   13
+CONECT    9   10   11   17
+CONECT   10    9   12
+CONECT   11    9   14
+CONECT   12    7   10
+CONECT   13    7    8
+CONECT   14   11
+CONECT   15    7
+CONECT   16    1
+CONECT   17    9
+CONECT   18    4
+END

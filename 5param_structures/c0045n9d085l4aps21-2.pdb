@@ -1,0 +1,9 @@
+TITLE     MDANALYSIS FRAME 0: Created by PDBWriter
+CRYST1   35.000   35.000   35.000  90.00  90.00  90.00 P 1           1
+ATOM      1  1   UNK X 123      11.809  15.803  26.821  1.00  0.00      SYST    
+ATOM      2  1   UNK X 123      11.806  16.150  27.468  1.00  0.00      SYST    
+ATOM      3  1   UNK X 123      11.230  15.995  27.744  1.00  0.00      SYST    
+CONECT    1    2
+CONECT    2    1    3
+CONECT    3    2
+END

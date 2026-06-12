@@ -1,0 +1,35 @@
+TITLE     MDANALYSIS FRAME 0: Created by PDBWriter
+CRYST1   35.000   35.000   35.000  90.00  90.00  90.00 P 1           1
+ATOM      1  1   UNK X  24      30.279  24.613  20.312  1.00  0.00      SYST    
+ATOM      2  1   UNK X  24      31.123  24.572  20.472  1.00  0.00      SYST    
+ATOM      3  1   UNK X  24      31.267  24.530  19.676  1.00  0.00      SYST    
+ATOM      4  1   UNK X  24      31.766  24.160  20.440  1.00  0.00      SYST    
+ATOM      5  1   UNK X  24      32.355  24.434  19.999  1.00  0.00      SYST    
+ATOM      6  1   UNK X  24      32.423  24.065  19.146  1.00  0.00      SYST    
+ATOM      7  1   UNK X  24      30.475  24.846  18.212  1.00  0.00      SYST    
+ATOM      8  1   UNK X  24      30.087  25.368  20.110  1.00  0.00      SYST    
+ATOM      9  1   UNK X  24      30.346  25.575  17.015  1.00  0.00      SYST    
+ATOM     10  1   UNK X  24      30.961  25.442  17.555  1.00  0.00      SYST    
+ATOM     11  1   UNK X  24      30.858  24.899  16.753  1.00  0.00      SYST    
+ATOM     12  1   UNK X  24      30.906  25.459  18.523  1.00  0.00      SYST    
+ATOM     13  1   UNK X  24      30.730  25.189  19.449  1.00  0.00      SYST    
+ATOM     14  1   UNK X  24      31.655  24.435  16.950  1.00  0.00      SYST    
+ATOM     15  2   UNK X  24      31.144  24.359  18.068  1.00  0.00      SYST    
+ATOM     16  2   UNK X  24      32.723  24.201  18.775  1.00  0.00      SYST    
+CONECT    1    2    8
+CONECT    2    1    3
+CONECT    3    2    4
+CONECT    4    3    5
+CONECT    5    4    6
+CONECT    6    5   16
+CONECT    7   12   13   15
+CONECT    8    1   13
+CONECT    9   10   11
+CONECT   10    9   12
+CONECT   11    9   14
+CONECT   12    7   10
+CONECT   13    7    8
+CONECT   14   11
+CONECT   15    7
+CONECT   16    6
+END

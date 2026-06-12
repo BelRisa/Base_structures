@@ -1,0 +1,79 @@
+TITLE     MDANALYSIS FRAME 0: Created by PDBWriter
+CRYST1   35.000   35.000   35.000  90.00  90.00  90.00 P 1           1
+ATOM      1  1   UNK X  15      11.897  25.897   3.566  1.00  0.00      SYST    
+ATOM      2  1   UNK X  15      11.421  26.167   4.069  1.00  0.00      SYST    
+ATOM      3  1   UNK X  15      10.891  26.457   4.407  1.00  0.00      SYST    
+ATOM      4  1   UNK X  15      10.998  27.134   4.721  1.00  0.00      SYST    
+ATOM      5  1   UNK X  15      10.860  26.727   5.542  1.00  0.00      SYST    
+ATOM      6  1   UNK X  15      11.079  25.823   5.252  1.00  0.00      SYST    
+ATOM      7  1   UNK X  15      12.180  24.506   3.891  1.00  0.00      SYST    
+ATOM      8  1   UNK X  15      11.529  25.215   4.066  1.00  0.00      SYST    
+ATOM      9  1   UNK X  15      12.769  23.732   4.781  1.00  0.00      SYST    
+ATOM     10  1   UNK X  15      12.917  24.171   4.422  1.00  0.00      SYST    
+ATOM     11  1   UNK X  15      12.917  24.481   5.035  1.00  0.00      SYST    
+ATOM     12  1   UNK X  15      12.545  25.266   4.254  1.00  0.00      SYST    
+ATOM     13  1   UNK X  15      11.542  24.688   3.951  1.00  0.00      SYST    
+ATOM     14  1   UNK X  15      12.417  24.155   5.385  1.00  0.00      SYST    
+ATOM     15  2   UNK X  15       9.621  27.995   4.856  1.00  0.00      SYST    
+ATOM     16  2   UNK X  15       9.799  27.677   5.809  1.00  0.00      SYST    
+ATOM     17  2   UNK X  15       9.227  27.946   5.374  1.00  0.00      SYST    
+ATOM     18  2   UNK X  15       9.886  27.592   5.009  1.00  0.00      SYST    
+ATOM     19  2   UNK X  15      10.398  27.433   5.356  1.00  0.00      SYST    
+ATOM     20  1   UNK X  21       8.869  29.695   6.143  1.00  0.00      SYST    
+ATOM     21  1   UNK X  21       8.808  30.077   5.634  1.00  0.00      SYST    
+ATOM     22  1   UNK X  21       9.370  29.689   5.343  1.00  0.00      SYST    
+ATOM     23  1   UNK X  21       8.792  29.143   5.363  1.00  0.00      SYST    
+ATOM     24  1   UNK X  21       8.627  28.676   5.635  1.00  0.00      SYST    
+ATOM     25  1   UNK X  21       8.762  28.542   4.952  1.00  0.00      SYST    
+ATOM     26  1   UNK X  21       9.124  30.089   6.980  1.00  0.00      SYST    
+ATOM     27  1   UNK X  21       9.636  29.627   6.271  1.00  0.00      SYST    
+ATOM     28  1   UNK X  21      10.146  29.476   5.172  1.00  0.00      SYST    
+ATOM     29  1   UNK X  21      10.281  30.064   5.880  1.00  0.00      SYST    
+ATOM     30  1   UNK X  21      10.554  30.394   4.881  1.00  0.00      SYST    
+ATOM     31  1   UNK X  21       9.757  30.488   6.942  1.00  0.00      SYST    
+ATOM     32  1   UNK X  21       8.832  30.134   6.454  1.00  0.00      SYST    
+ATOM     33  1   UNK X  21      10.793  30.978   5.047  1.00  0.00      SYST    
+ATOM     34  2   UNK X  21       9.727  28.109   6.083  1.00  0.00      SYST    
+ATOM     35  2   UNK X  21       9.921  27.787   6.400  1.00  0.00      SYST    
+ATOM     36  2   UNK X  21      10.524  27.379   6.034  1.00  0.00      SYST    
+ATOM     37  2   UNK X  21      10.054  28.287   5.414  1.00  0.00      SYST    
+ATOM     38  2   UNK X  21       9.311  28.020   5.672  1.00  0.00      SYST    
+CONECT    1    2    8
+CONECT    2    1    3
+CONECT    3    2    4
+CONECT    4    3    5   19
+CONECT    5    4    6
+CONECT    6    5
+CONECT    7   12   13
+CONECT    8    1   13
+CONECT    9   10   11
+CONECT   10    9   12
+CONECT   11    9   14
+CONECT   12    7   10
+CONECT   13    7    8
+CONECT   14   11
+CONECT   15   16   18
+CONECT   16   15   17
+CONECT   17   16
+CONECT   18   15   19
+CONECT   19    4   18
+CONECT   20   21   27
+CONECT   21   20   22
+CONECT   22   21   23
+CONECT   23   22   24   38
+CONECT   24   23   25
+CONECT   25   24
+CONECT   26   31   32
+CONECT   27   20   32
+CONECT   28   29   30
+CONECT   29   28   31
+CONECT   30   28   33
+CONECT   31   26   29
+CONECT   32   26   27
+CONECT   33   30
+CONECT   34   35   37
+CONECT   35   34   36
+CONECT   36   35
+CONECT   37   34   38
+CONECT   38   23   37
+END
